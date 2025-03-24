@@ -1,0 +1,26 @@
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Synchronization\bin\Debug\net8.0\TP.ConcurrentProgramming.Synchronization.deps.json
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Synchronization\bin\Debug\net8.0\TP.ConcurrentProgramming.Synchronization.dll
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Synchronization\bin\Debug\net8.0\TP.ConcurrentProgramming.Synchronization.pdb
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Synchronization\obj\Debug\net8.0\Synchronization.csproj.AssemblyReference.cache
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Synchronization\obj\Debug\net8.0\Synchronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Synchronization\obj\Debug\net8.0\Synchronization.AssemblyInfoInputs.cache
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Synchronization\obj\Debug\net8.0\Synchronization.AssemblyInfo.cs
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Synchronization\obj\Debug\net8.0\Synchronization.csproj.CoreCompileInputs.cache
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Synchronization\obj\Debug\net8.0\Synchronization.sourcelink.json
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Synchronization\obj\Debug\net8.0\TP.ConcurrentProgramming.Synchronization.dll
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Synchronization\obj\Debug\net8.0\refint\TP.ConcurrentProgramming.Synchronization.dll
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Synchronization\obj\Debug\net8.0\TP.ConcurrentProgramming.Synchronization.pdb
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Synchronization\obj\Debug\net8.0\ref\TP.ConcurrentProgramming.Synchronization.dll
+C:\Users\gorba\source\repos\Concurrent-Programming\Synchronization\bin\Debug\net8.0\TP.ConcurrentProgramming.Synchronization.deps.json
+C:\Users\gorba\source\repos\Concurrent-Programming\Synchronization\bin\Debug\net8.0\TP.ConcurrentProgramming.Synchronization.dll
+C:\Users\gorba\source\repos\Concurrent-Programming\Synchronization\bin\Debug\net8.0\TP.ConcurrentProgramming.Synchronization.pdb
+C:\Users\gorba\source\repos\Concurrent-Programming\Synchronization\obj\Debug\net8.0\Synchronization.csproj.AssemblyReference.cache
+C:\Users\gorba\source\repos\Concurrent-Programming\Synchronization\obj\Debug\net8.0\Synchronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorba\source\repos\Concurrent-Programming\Synchronization\obj\Debug\net8.0\Synchronization.AssemblyInfoInputs.cache
+C:\Users\gorba\source\repos\Concurrent-Programming\Synchronization\obj\Debug\net8.0\Synchronization.AssemblyInfo.cs
+C:\Users\gorba\source\repos\Concurrent-Programming\Synchronization\obj\Debug\net8.0\Synchronization.csproj.CoreCompileInputs.cache
+C:\Users\gorba\source\repos\Concurrent-Programming\Synchronization\obj\Debug\net8.0\Synchronization.sourcelink.json
+C:\Users\gorba\source\repos\Concurrent-Programming\Synchronization\obj\Debug\net8.0\TP.ConcurrentProgramming.Synchronization.dll
+C:\Users\gorba\source\repos\Concurrent-Programming\Synchronization\obj\Debug\net8.0\refint\TP.ConcurrentProgramming.Synchronization.dll
+C:\Users\gorba\source\repos\Concurrent-Programming\Synchronization\obj\Debug\net8.0\TP.ConcurrentProgramming.Synchronization.pdb
+C:\Users\gorba\source\repos\Concurrent-Programming\Synchronization\obj\Debug\net8.0\ref\TP.ConcurrentProgramming.Synchronization.dll

@@ -1,0 +1,26 @@
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Fundamentals\bin\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.deps.json
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Fundamentals\bin\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.dll
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Fundamentals\bin\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.pdb
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Fundamentals\obj\Debug\net8.0\Fundamentals.csproj.AssemblyReference.cache
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Fundamentals\obj\Debug\net8.0\Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Fundamentals\obj\Debug\net8.0\Fundamentals.AssemblyInfoInputs.cache
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Fundamentals\obj\Debug\net8.0\Fundamentals.AssemblyInfo.cs
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Fundamentals\obj\Debug\net8.0\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Fundamentals\obj\Debug\net8.0\Fundamentals.sourcelink.json
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Fundamentals\obj\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.dll
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Fundamentals\obj\Debug\net8.0\refint\TP.ConcurrentProgramming.Fundamentals.dll
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Fundamentals\obj\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.pdb
+C:\Users\gorba\source\repos\WSPOLBIEZNE ETAP 0\ConcurrentProgramming\Fundamentals\obj\Debug\net8.0\ref\TP.ConcurrentProgramming.Fundamentals.dll
+C:\Users\gorba\source\repos\Concurrent-Programming\Fundamentals\bin\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.deps.json
+C:\Users\gorba\source\repos\Concurrent-Programming\Fundamentals\bin\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.dll
+C:\Users\gorba\source\repos\Concurrent-Programming\Fundamentals\bin\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.pdb
+C:\Users\gorba\source\repos\Concurrent-Programming\Fundamentals\obj\Debug\net8.0\Fundamentals.csproj.AssemblyReference.cache
+C:\Users\gorba\source\repos\Concurrent-Programming\Fundamentals\obj\Debug\net8.0\Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorba\source\repos\Concurrent-Programming\Fundamentals\obj\Debug\net8.0\Fundamentals.AssemblyInfoInputs.cache
+C:\Users\gorba\source\repos\Concurrent-Programming\Fundamentals\obj\Debug\net8.0\Fundamentals.AssemblyInfo.cs
+C:\Users\gorba\source\repos\Concurrent-Programming\Fundamentals\obj\Debug\net8.0\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\gorba\source\repos\Concurrent-Programming\Fundamentals\obj\Debug\net8.0\Fundamentals.sourcelink.json
+C:\Users\gorba\source\repos\Concurrent-Programming\Fundamentals\obj\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.dll
+C:\Users\gorba\source\repos\Concurrent-Programming\Fundamentals\obj\Debug\net8.0\refint\TP.ConcurrentProgramming.Fundamentals.dll
+C:\Users\gorba\source\repos\Concurrent-Programming\Fundamentals\obj\Debug\net8.0\TP.ConcurrentProgramming.Fundamentals.pdb
+C:\Users\gorba\source\repos\Concurrent-Programming\Fundamentals\obj\Debug\net8.0\ref\TP.ConcurrentProgramming.Fundamentals.dll

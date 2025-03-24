@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogic\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\PresentationViewModelTest\\MainWindowViewModelUnitTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PresentationViewModelTest\\MainWindowViewModelUnitTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\PresentationModelTest\\PresentationModelTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PresentationModelTest\\PresentationModelTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogic\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogicTest\\BusinessBallUnitTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogicTest\\BusinessBallUnitTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogicTest\\BusinessLogicTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogicTest\\BusinessLogicTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\BusinessLogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogic\\BusinessLogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\BusinessBall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogic\\BusinessBall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogic\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\GraphicalUserInterface\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraphicalUserInterface\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\GraphicalUserInterface\\App.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraphicalUserInterface\\App.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\PresentationViewModelTest\\PresentationViewModelTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PresentationViewModelTest\\PresentationViewModelTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\GraphicalUserInterface\\PresentationView.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraphicalUserInterface\\PresentationView.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "BusinessLogic\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:29:39.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PresentationModelTest.csproj",
+              "DocumentMoniker": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\PresentationModelTest\\PresentationModelTest.csproj",
+              "RelativeDocumentMoniker": "PresentationModelTest\\PresentationModelTest.csproj",
+              "ToolTip": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\PresentationModelTest\\PresentationModelTest.csproj",
+              "RelativeToolTip": "PresentationModelTest\\PresentationModelTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T21:13:57.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "project.assets.json",
+              "DocumentMoniker": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\obj\\project.assets.json",
+              "RelativeDocumentMoniker": "BusinessLogic\\obj\\project.assets.json",
+              "ToolTip": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\obj\\project.assets.json",
+              "RelativeToolTip": "BusinessLogic\\obj\\project.assets.json",
+              "ViewState": "AgIAADoAAACAZWZmZmYkwEIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T21:09:18.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModelUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\PresentationViewModelTest\\MainWindowViewModelUnitTest.cs",
+              "RelativeDocumentMoniker": "PresentationViewModelTest\\MainWindowViewModelUnitTest.cs",
+              "ToolTip": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\PresentationViewModelTest\\MainWindowViewModelUnitTest.cs",
+              "RelativeToolTip": "PresentationViewModelTest\\MainWindowViewModelUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:02:15.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusinessLogicTest.csproj",
+              "DocumentMoniker": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogicTest\\BusinessLogicTest.csproj",
+              "RelativeDocumentMoniker": "BusinessLogicTest\\BusinessLogicTest.csproj",
+              "ToolTip": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogicTest\\BusinessLogicTest.csproj",
+              "RelativeToolTip": "BusinessLogicTest\\BusinessLogicTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T21:01:20.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BusinessLogic.csproj",
+              "DocumentMoniker": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
+              "ToolTip": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T21:00:57.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BusinessBall.cs",
+              "DocumentMoniker": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\BusinessBall.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\BusinessBall.cs",
+              "ToolTip": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\BusinessBall.cs",
+              "RelativeToolTip": "BusinessLogic\\BusinessBall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:00:53.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogic\\AssemblyInfo.cs",
+              "RelativeToolTip": "BusinessLogic\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:00:36.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\GraphicalUserInterface\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GraphicalUserInterface\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\GraphicalUserInterface\\MainWindow.xaml",
+              "RelativeToolTip": "GraphicalUserInterface\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-24T21:00:04.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\GraphicalUserInterface\\App.xaml",
+              "RelativeDocumentMoniker": "GraphicalUserInterface\\App.xaml",
+              "ToolTip": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\GraphicalUserInterface\\App.xaml",
+              "RelativeToolTip": "GraphicalUserInterface\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-24T20:59:55.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessBallUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogicTest\\BusinessBallUnitTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogicTest\\BusinessBallUnitTest.cs",
+              "ToolTip": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\BusinessLogicTest\\BusinessBallUnitTest.cs",
+              "RelativeToolTip": "BusinessLogicTest\\BusinessBallUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:59:16.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PresentationViewModelTest.csproj",
+              "DocumentMoniker": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\PresentationViewModelTest\\PresentationViewModelTest.csproj",
+              "RelativeDocumentMoniker": "PresentationViewModelTest\\PresentationViewModelTest.csproj",
+              "ToolTip": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\PresentationViewModelTest\\PresentationViewModelTest.csproj",
+              "RelativeToolTip": "PresentationViewModelTest\\PresentationViewModelTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T20:58:27.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PresentationView.csproj",
+              "DocumentMoniker": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\GraphicalUserInterface\\PresentationView.csproj",
+              "RelativeDocumentMoniker": "GraphicalUserInterface\\PresentationView.csproj",
+              "ToolTip": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\GraphicalUserInterface\\PresentationView.csproj",
+              "RelativeToolTip": "GraphicalUserInterface\\PresentationView.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T20:57:46.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-23T17:14:19.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

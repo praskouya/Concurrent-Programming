@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBlE/pd6J64=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gorba\\source\\repos\\Concurrent-Programming\\CommonDataConsistency\\CommonDataConsistency.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gorba\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
