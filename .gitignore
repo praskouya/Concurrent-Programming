@@ -88,3 +88,7 @@ $tf/
 
 # Guidance Automation Toolkit
 *.gpState
+
+
+.project/
+.solution/
