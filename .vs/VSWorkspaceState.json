@@ -1,16 +1,4 @@
 {
-  "ExpandedNodes": [
-    "\\BusinessLogic",
-    "\\BusinessLogic\\obj",
-    "\\BusinessLogic\\obj\\Debug",
-    "\\BusinessLogic\\obj\\Debug\\net8.0",
-    "\\BusinessLogic\\obj\\Release",
-    "\\PresentationModelTest",
-    "\\PresentationModelTest\\obj",
-    "\\PresentationViewModel",
-    "\\PresentationViewModelTest",
-    "\\PresentationViewModelTest\\obj",
-    "\\PresentationViewModel\\obj"
-  ],
+  "ExpandedNodes": [],
   "PreviewInSolutionExplorer": false
 }
