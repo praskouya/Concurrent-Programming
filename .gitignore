@@ -90,5 +90,5 @@ $tf/
 *.gpState
 
 
-.project/
-.solution/
+.Project/
+.Solution/
